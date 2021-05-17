@@ -1,0 +1,15 @@
+certifi==2020.12.5
+cffi @ file:///tmp/build/80754af9/cffi_1613246439577/work
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603487797006/work
+olefile==0.46
+pandas==1.1.5
+Pillow @ file:///tmp/build/80754af9/pillow_1615224027575/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+python-dateutil==2.8.1
+pytz==2020.5
+six @ file:///tmp/build/80754af9/six_1605205335545/work
+torch==1.4.0
+torchvision==0.2.1
